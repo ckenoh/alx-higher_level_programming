@@ -1,1 +1,1 @@
-0x00-python-hello_world
+Basic concpts of python are in this project
